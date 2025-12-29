@@ -4,7 +4,7 @@ abstract class LibraryItem {
     private String title;
     private String author;
 
-    // COnstructor
+    // Constructor
     public LibraryItem(String itemId, String title, String author) {
         this.itemId = itemId;
         this.title = title;
