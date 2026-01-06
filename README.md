@@ -4,6 +4,7 @@ Tasks are organized week-wise, detailing the concepts learned and hands-on probl
 
 ## Week 2: Object-Oriented Programming (OOPS)
 **📅 Day 7 – OOPS Basics**
+
 **(Date: 23-Dec-2025)**
 
 - Set up repository
@@ -20,26 +21,28 @@ Tasks are organized week-wise, detailing the concepts learned and hands-on probl
         |   └── leet-code-codebase/
         |   └── scenario-based/
         └── README.md
+
 - Studied OOPS concepts in Java
-
 - Learned classes and objects
-
 - Understood instance variables and class (static) variables
-
 - Learned Java constructors
-
 - Studied access modifiers (public, private, protected, default)
-
 - Solved problems on each OOPS topic
-
 - Practiced basic OOPS-based programs
 
-🔗 Code Links: For Day 7
+🔗 Code Links: 👉 Day 7
+
+**Class and Objects**
+
 (https://github.com/nikhilchahar1/BridgeLabz-Training/tree/oops-practice/gcr-codebase/class-object)
+
+**Constructors and Modifiers**
+
 (https://github.com/nikhilchahar1/BridgeLabz-Training/tree/oops-practice/gcr-codebase/constructors-modifiers)
 
 
 **📅 Day 8 – Object Modeling & UML Diagrams**
+
 **(Date: 24-Dec-2025)**
 
 - Studied Object Modeling concepts in Java
@@ -49,7 +52,9 @@ Tasks are organized week-wise, detailing the concepts learned and hands-on probl
 - Studied Sequence Diagrams to understand object interactions
 - Solved problems and examples on each diagram type
 - Practiced designing models for simple real-world scenarios
+  
 🔗 Code Links:
+
 👉 Day 8 - (https://github.com/nikhilchahar1/BridgeLabz-Training/tree/oops-practice/gcr-codebase/design-principles)
 
 **📅 Day 9 – OOPS Pillars & Interfaces**
@@ -64,5 +69,7 @@ Tasks are organized week-wise, detailing the concepts learned and hands-on probl
 - Understood how OOPS pillars and interfaces are implemented in Java
 - Solved problems based on each OOPS pillar and interfaces
 - Practiced OOPS-based programs to strengthen conceptual clarity
+  
 🔗 Code / Practice Links:
+
 👉 Day 9 – (https://github.com/nikhilchahar1/BridgeLabz-Training/tree/oops-practice/gcr-codebase/java-principles)
