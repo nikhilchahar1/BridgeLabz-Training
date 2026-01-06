@@ -3,23 +3,23 @@ This repository documents my daily learning progress during the BridgeLabz Train
 Tasks are organized week-wise, detailing the concepts learned and hands-on problems solved each day.
 
 ## Week 2: Object-Oriented Programming (OOPS)
-###📅 Day 7 – OOPS Basics
-(Date: 23-Dec-2025)
+**📅 Day 7 – OOPS Basics**
+**(Date: 23-Dec-2025)**
 
 - Set up repository
 
-    BridgeLabz-Training/
-    ├── oops-practice/
-    │   └── gcr-codebase/
-    │   |   └── class-objects/ 
-    |   |   └── constructors-modifiers/
-    |   |   └── diagrams-modelling/
-    |   |   └── inheritance/
-    |   |   └── oops-pillars/
-    |   |   └── this-static-final-keyword/
-    |   └── leet-code-codebase/
-    |   └── scenario-based/
-    └── README.md
+        BridgeLabz-Training/
+        ├── oops-practice/
+        │   └── gcr-codebase/
+        │   |   └── class-objects/ 
+        |   |   └── constructors-modifiers/
+        |   |   └── diagrams-modelling/
+        |   |   └── inheritance/
+        |   |   └── oops-pillars/
+        |   |   └── this-static-final-keyword/
+        |   └── leet-code-codebase/
+        |   └── scenario-based/
+        └── README.md
 - Studied OOPS concepts in Java
 
 - Learned classes and objects
@@ -35,12 +35,12 @@ Tasks are organized week-wise, detailing the concepts learned and hands-on probl
 - Practiced basic OOPS-based programs
 
 🔗 Code Links: For Day 7
-https://github.com/nikhilchahar1/BridgeLabz-Training/tree/oops-practice/gcr-codebase/class-object
-https://github.com/nikhilchahar1/BridgeLabz-Training/tree/oops-practice/gcr-codebase/constructors-modifiers
+(https://github.com/nikhilchahar1/BridgeLabz-Training/tree/oops-practice/gcr-codebase/class-object)
+(https://github.com/nikhilchahar1/BridgeLabz-Training/tree/oops-practice/gcr-codebase/constructors-modifiers)
 
 
-###📅 Day 8 – Object Modeling & UML Diagrams
-(Date: 24-Dec-2025)
+**📅 Day 8 – Object Modeling & UML Diagrams**
+**(Date: 24-Dec-2025)**
 
 - Studied Object Modeling concepts in Java
 - Understood the difference between Classes and Objects in design
@@ -50,10 +50,10 @@ https://github.com/nikhilchahar1/BridgeLabz-Training/tree/oops-practice/gcr-code
 - Solved problems and examples on each diagram type
 - Practiced designing models for simple real-world scenarios
 🔗 Code Links:
-👉 Day 8 - https://github.com/nikhilchahar1/BridgeLabz-Training/tree/oops-practice/gcr-codebase/design-principles
+👉 Day 8 - (https://github.com/nikhilchahar1/BridgeLabz-Training/tree/oops-practice/gcr-codebase/design-principles)
 
-###📅 Day 9 – OOPS Pillars & Interfaces
-(Date: 26-Dec-2025)
+**📅 Day 9 – OOPS Pillars & Interfaces**
+**(Date: 26-Dec-2025)**
 
 - Studied the four pillars of Object-Oriented Programming
 - Understood Encapsulation and data hiding concepts
@@ -65,4 +65,4 @@ https://github.com/nikhilchahar1/BridgeLabz-Training/tree/oops-practice/gcr-code
 - Solved problems based on each OOPS pillar and interfaces
 - Practiced OOPS-based programs to strengthen conceptual clarity
 🔗 Code / Practice Links:
-👉 Day 9 – https://github.com/nikhilchahar1/BridgeLabz-Training/tree/oops-practice/gcr-codebase/java-principles
+👉 Day 9 – (https://github.com/nikhilchahar1/BridgeLabz-Training/tree/oops-practice/gcr-codebase/java-principles)
