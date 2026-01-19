@@ -1,526 +1,300 @@
 # Daily Progress Log - BridgeLabz-Training
-
-
-
 This repository documents my daily learning progress during the BridgeLabz Training Program, focused on Java Programming.
-
 Tasks are organized week-wise, detailing the concepts learned and hands-on problems solved each day.
 
+## Week 1: Git, GitHub & Java Programming Fundamentals
 
+**📅 Day 1 – Git & GitHub Setup**
 
-\## Week 1: Git, GitHub \& Java Programming Fundamentals
+**(Date: 16-Dec-2025)**
 
-\*\*📅 Day 1 – Git \& GitHub Setup\*\*
+- Installed and configured Git.
+- Set up GitHub repository.
 
-\*\*(Date: 16-Dec-2025)\*\*
+      BridgeLabz-Training/
+      ├── core-java-practice/
+      │   └── gcr-codebase/
+      │   |   └── arrays/ 
+      |   |   └── builtIn-functions/
+      |   |   └── control-flow/
+      |   |   └── java-methods/
+      |   |   └── programming-elements/
+      |   |   └── string-handling/
+      |   |   └── strings/
+      |   └── leet-code-codebase/
+      |   └── scenario-based/
+      └── README.md 
 
+- Learned basic Git commands (init, clone, add, commit, push).
+- Successfully pushed files to the remote repository.
 
+---
 
-\- Installed and configured Git.
+**📅 Day 2 – Git Practice & Basic Java Programs**
 
-\- Set up GitHub repository.
+**(Date: 17-Dec-2025)**
 
-
-
-&nbsp;     BridgeLabz-Training/
-
-&nbsp;     ├── core-java-practice/
-
-&nbsp;     │   └── gcr-codebase/
-
-&nbsp;     │   |   └── arrays/ 
-
-&nbsp;     |   |   └── builtIn-functions/
-
-&nbsp;     |   |   └── control-flow/
-
-&nbsp;     |   |   └── java-methods/
-
-&nbsp;     |   |   └── programming-elements/
-
-&nbsp;     |   |   └── string-handling/
-
-&nbsp;     |   |   └── strings/
-
-&nbsp;     |   └── leet-code-codebase/
-
-&nbsp;     |   └── scenario-based/
-
-&nbsp;     └── README.md
-
-&nbsp; 
-
-\- Learned basic Git commands (init, clone, add, commit, push).
-
-\- Successfully pushed files to the remote repository.
-
-
-
-\*\*📅 Day 2 – Git Practice \& Basic Java Programs\*\*
-
-\*\*(Date: 17-Dec-2025)\*\*
-
-
-
-\- Practiced Git workflow to understand commits and version control.
-
-\- Solved very basic Java programs to understand syntax and structure.
-
-\- Practiced adding, committing, and pushing Java files to GitHub.
-
-&nbsp; 
+- Practiced Git workflow to understand commits and version control.
+- Solved very basic Java programs to understand syntax and structure.
+- Practiced adding, committing, and pushing Java files to GitHub.
 
 🔗 Code Link:
-
-
 
 👉 Day 2 – (https://github.com/nikhilchahar1/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/programming-elements)
 
+---
 
+**📅 Day 3 – Programming Elements in Java**
 
-\*\*📅 Day 3 – Programming Elements in Java\*\*
+**(Date: 18-Dec-2025)**
 
-\*\*(Date: 18-Dec-2025)\*\*
-
-
-
-\- Studied Java programming elements:
-
-\- Variables and data types
-
-\- Operators
-
-\- User input and output
-
-\- Solved practice problems based on programming elements.
-
-\- Committed and pushed solutions to the repository.
-
-
+- Studied Java programming elements:
+- Variables and data types
+- Operators
+- User input and output
+- Solved practice problems based on programming elements.
+- Committed and pushed solutions to the repository.
 
 🔗 Code Link:
-
-
 
 👉 Day 3 – (https://github.com/nikhilchahar1/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/programming-elements)
 
+---
 
+**📅 Day 4 – Control Flow Statements**
 
-\*\*📅 Day 4 – Control Flow Statements\*\*
+**(Date: 19-Dec-2025)**
 
-\*\*(Date: 19-Dec-2025)\*\*
-
-
-
-\- Studied Java control flow concepts:
-
-&nbsp; - if, else if, else
-
-&nbsp; - switch statements
-
-&nbsp; - Loops (for, while, do-while)
-
-\- Solved control flow-based problems.
-
-\- Submitted completed solutions to GitHub.
-
-&nbsp; 
+- Studied Java control flow concepts:
+  - if, else if, else
+  - switch statements
+  - Loops (for, while, do-while)
+- Solved control flow-based problems.
+- Submitted completed solutions to GitHub. 
 
 🔗 Code Link:
-
-
 
 👉 Day 4 – (https://github.com/nikhilchahar1/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/control-flow)
 
+---
 
+**📅 Day 5 – Arrays**
 
-\*\*📅 Day 5 – Arrays\*\*
+**(Date: 20-Dec-2025)**
 
-\*\*(Date: 20-Dec-2025)\*\*
-
-
-
-\- Studied Java array concepts:
-
-\- 1D and multidimensional arrays (declaration, initialization, traversal)
-
-\- Taking array input using loops
-
-\- Finding maximum, minimum, sum, and average
-
-\- Frequency counting in arrays
-
-\- Solved array-based practice problems.
-
-&nbsp; 
+- Studied Java array concepts:
+- 1D and multidimensional arrays (declaration, initialization, traversal)
+- Taking array input using loops
+- Finding maximum, minimum, sum, and average
+- Frequency counting in arrays
+- Solved array-based practice problems. 
 
 🔗 Code Link:
 
-
-
 👉 Day 5 – (https://github.com/nikhilchahar1/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/arrays)
 
+---
 
+**📅 Day 6 – Strings**
 
-\*\*📅 Day 6 – Strings\*\*
+**(Date: 22-Dec-2025)**
 
-\*\*(Date: 22-Dec-2025)\*\*
+- Studied Java Strings and String handling in depth:
+  - String creation using String class and char[]
+  - String immutability and comparison techniques
 
+- Learned methods in general:
+  - What methods are and why they are used
+  - Method calling, parameters, and return types
 
+- Explored String methods \& inbuilt functions:
+  - length(), charAt(), toLowerCase(), toUpperCase()
+  - Other commonly used string utility methods
 
-\- Studied Java Strings and String handling in depth:
-
-&nbsp; - String creation using String class and char\[]
-
-&nbsp; - String immutability and comparison techniques
-
-
-
-\- Learned methods in general:
-
-&nbsp; - What methods are and why they are used
-
-&nbsp; - Method calling, parameters, and return types
-
-
-
-\- Explored String methods \& inbuilt functions:
-
-&nbsp; - length(), charAt(), toLowerCase(), toUpperCase()
-
-&nbsp; - Other commonly used string utility methods
-
-
-
-\- Solved string manipulation problems:
-
-&nbsp; - Anagrams
-
-&nbsp; - Checking unique characters
-
-&nbsp; - Character frequency
-
-
+- Solved string manipulation problems:
+  - Anagrams
+  - Checking unique characters
+  - Character frequency
 
 🔗 Code Links:
-
-
 
 👉 Day 6 – (https://github.com/nikhilchahar1/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/string)
 
-
-
 👉 Day 6 – (https://github.com/nikhilchahar1/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/methods) 
-
-
 
 👉 Day 6 – (https://github.com/nikhilchahar1/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/builtin-functions)
 
+---
 
+## Week 2: Object-Oriented Programming (OOPS)
 
-\## Week 2: Object-Oriented Programming (OOPS)
+**📅 Day 7 – OOPS Basics**
 
-\*\*📅 Day 7 – OOPS Basics\*\*
+**(Date: 23-Dec-2025)**
 
+- Set up repository
 
+       BridgeLabz-Training/
+       ├── oops-practice/
+       │   └── gcr-codebase/
+       │   |   └── class-objects/ 
+       |   |   └── constructors-modifiers/
+       |   |   └── diagrams-modelling/
+       |   |   └── inheritance/
+       |   |   └── oops-pillars/
+       |   |   └── this-static-final-keyword/
+       |   └── leet-code-codebase/
+       |   └── scenario-based/
+       └── README.md
 
-\*\*(Date: 23-Dec-2025)\*\*
-
-
-
-\- Set up repository
-
-
-
-&nbsp;       BridgeLabz-Training/
-
-&nbsp;       ├── oops-practice/
-
-&nbsp;       │   └── gcr-codebase/
-
-&nbsp;       │   |   └── class-objects/ 
-
-&nbsp;       |   |   └── constructors-modifiers/
-
-&nbsp;       |   |   └── diagrams-modelling/
-
-&nbsp;       |   |   └── inheritance/
-
-&nbsp;       |   |   └── oops-pillars/
-
-&nbsp;       |   |   └── this-static-final-keyword/
-
-&nbsp;       |   └── leet-code-codebase/
-
-&nbsp;       |   └── scenario-based/
-
-&nbsp;       └── README.md
-
-
-
-\- Studied OOPS concepts in Java
-
-\- Learned classes and objects
-
-\- Understood instance variables and class (static) variables
-
-\- Learned Java constructors
-
-\- Studied access modifiers (public, private, protected, default)
-
-\- Solved problems on each OOPS topic
-
-\- Practiced basic OOPS-based programs
-
-
+- Studied OOPS concepts in Java
+- Learned classes and objects
+- Understood instance variables and class (static) variables
+- Learned Java constructors
+- Studied access modifiers (public, private, protected, default)
+- Solved problems on each OOPS topic
+- Practiced basic OOPS-based programs
 
 🔗 Code Links: 👉 Day 7
 
-
-
-\*\*Class and Objects\*\*
-
-
+**Class and Objects**
 
 (https://github.com/nikhilchahar1/BridgeLabz-Training/tree/oops-practice/gcr-codebase/class-object)
 
-
-
-\*\*Constructors and Modifiers\*\*
-
-
+**Constructors and Modifiers**
 
 (https://github.com/nikhilchahar1/BridgeLabz-Training/tree/oops-practice/gcr-codebase/constructors-modifiers)
 
+---
 
+**📅 Day 8 – Object Modeling & UML Diagrams**
 
+**(Date: 24-Dec-2025)**
 
-
-\*\*📅 Day 8 – Object Modeling \& UML Diagrams\*\*
-
-
-
-\*\*(Date: 24-Dec-2025)\*\*
-
-
-
-\- Studied Object Modeling concepts in Java
-
-\- Understood the difference between Classes and Objects in design
-
-\- Learned Class Diagrams and their components
-
-\- Explored Object Diagrams to represent object instances
-
-\- Studied Sequence Diagrams to understand object interactions
-
-\- Solved problems and examples on each diagram type
-
-\- Practiced designing models for simple real-world scenarios
-
-&nbsp; 
+- Studied Object Modeling concepts in Java
+- Understood the difference between Classes and Objects in design
+- Learned Class Diagrams and their components
+- Explored Object Diagrams to represent object instances
+- Studied Sequence Diagrams to understand object interactions
+- Solved problems and examples on each diagram type
+- Practiced designing models for simple real-world scenarios 
 
 🔗 Code Links:
 
-
-
 👉 Day 8 - (https://github.com/nikhilchahar1/BridgeLabz-Training/tree/oops-practice/gcr-codebase/design-principles)
 
+---
 
+**📅 Day 9 – OOPS Pillars & Interfaces**
 
-\*\*📅 Day 9 – OOPS Pillars \& Interfaces\*\*
+**(Date: 26-Dec-2025)**
 
-\*\*(Date: 26-Dec-2025)\*\*
-
-
-
-\- Studied the four pillars of Object-Oriented Programming
-
-\- Understood Encapsulation and data hiding concepts
-
-\- Learned Inheritance and code reusability
-
-\- Explored Polymorphism including method overloading and overriding
-
-\- Studied Abstraction and its importance in system design
-
-\- Learned Interfaces in Java and their role in achieving abstraction and multiple inheritance
-
-\- Understood how OOPS pillars and interfaces are implemented in Java
-
-\- Solved problems based on each OOPS pillar and interfaces
-
-\- Practiced OOPS-based programs to strengthen conceptual clarity
-
-&nbsp; 
+- Studied the four pillars of Object-Oriented Programming
+- Understood Encapsulation and data hiding concepts
+- Learned Inheritance and code reusability
+- Explored Polymorphism including method overloading and overriding
+- Studied Abstraction and its importance in system design
+- Learned Interfaces in Java and their role in achieving abstraction and multiple inheritance
+- Understood how OOPS pillars and interfaces are implemented in Java
+- Solved problems based on each OOPS pillar and interfaces
+- Practiced OOPS-based programs to strengthen conceptual clarity
 
 🔗 Code / Practice Links:
 
-
-
 👉 Day 9 – (https://github.com/nikhilchahar1/BridgeLabz-Training/tree/oops-practice/gcr-codebase/java-principles)
 
+---
 
+## Week 3: Data Structures And Algorithms (DSA)
 
+**📅 Day 10 – Introduction to DSA**
 
+**(Date: 29-Dec-2025)**
 
-\# Daily Progress Log – BridgeLabz
+- Set up repository
 
-This repository documents my daily learning progress during the BridgeLabz Training Program, focused on Java Programming.
+      BridgeLabz-Training/
+      ├── dsa-practice/
+      │   └── gcr-codebase/
+      │   |   └── linkedlists/ 
+      |   |   └── stack-queue-hashmap/
+      |   |   └── sorting-algorithms/
+      |   |   └── binary-linear-search/
+      |   |   └── time-space-complexity/
+      |   └── leet-code-codebase/
+      |   └── scenario-based/
+      └── README.md
 
-Tasks are organized week-wise, detailing the concepts learned and hands-on problems solved each day.
-
-
-
-\## Week 3: Data Structures And Algorithms (DSA)
-
-\*\*📅 Day 10 – Introduction to DSA\*\*
-
-\*\*(Date: 29-Dec-2025)\*\*
-
-
-
-\- Set up repository
-
-
-
-&nbsp;     BridgeLabz-Training/
-
-&nbsp;     ├── dsa-practice/
-
-&nbsp;     │   └── gcr-codebase/
-
-&nbsp;     │   |   └── linkedlists/ 
-
-&nbsp;     |   |   └── stack-queue-hashmap/
-
-&nbsp;     |   |   └── sorting-algorithms/
-
-&nbsp;     |   |   └── binary-linear-search/
-
-&nbsp;     |   |   └── time-space-complexity/
-
-&nbsp;     |   └── leet-code-codebase/
-
-&nbsp;     |   └── scenario-based/
-
-&nbsp;     └── README.md
-
-
-
-\- Started learning Data Structures and Algorithms (DSA)
-
-\- Understood the basics of Data Structures and their importance
-
-\- Studied Linked Lists and their structure
-
-\- Learned Stacks and Queues along with their basic operations
-
-\- Understood the concept of Hashing and Hash Functions
-
-\- Practiced basic examples and problems on each data structure
-
-&nbsp; 
+- Started learning Data Structures and Algorithms (DSA)
+- Understood the basics of Data Structures and their importance
+- Studied Linked Lists and their structure
+- Learned Stacks and Queues along with their basic operations
+- Understood the concept of Hashing and Hash Functions
+- Practiced basic examples and problems on each data structure
 
 🔗 Practice Code Links:
 
 👉 Day 10 – (https://github.com/nikhilchahar1/BridgeLabz-Training/tree/dsa-practice/gcr-codebase/linkedlists)
 
-
-
 👉 Day 10 – (https://github.com/nikhilchahar1/BridgeLabz-Training/tree/dsa-practice/gcr-codebase/stack-queue-hashmap)
 
+---
 
+**📅 Day 11 – Sorting Algorithms**
 
-\*\*📅 Day 11 – Sorting Algorithms\*\*
+**(Date: 30-Dec-2025)**
 
-\*\*(Date: 30-Dec-2025)\*\*
+- Studied Sorting algorithms and their role in Data Structures
+- Learned sorting algorithms:
+   - Bubble Sort
+   - Selection Sort
+   - Insertion Sort
+   - Merge Sort
+   - Quick Sort
+   - Heap Sort
+   - Counting Sort
 
-
-
-\- Studied Sorting algorithms and their role in Data Structures
-
-\- Learned sorting algorithms:
-
-&nbsp;   - Bubble Sort
-
-&nbsp;   - Selection Sort
-
-&nbsp;   - Insertion Sort
-
-&nbsp;   - Merge Sort
-
-&nbsp;   - Quick Sort
-
-&nbsp;   - Heap Sort
-
-&nbsp;   - Counting Sort
-
-\- Understood the working principles of each sorting algorithm
-
-\- Analyzed time and space complexity for the sorting methods
-
-\- Practiced implementations and problems on sorting algorithms
-
-&nbsp; 
+- Understood the working principles of each sorting algorithm
+- Analyzed time and space complexity for the sorting methods
+- Practiced implementations and problems on sorting algorithms
 
 🔗 Practice Code Links:
 
 👉 Day 11 – (https://github.com/nikhilchahar1/BridgeLabz-Training/tree/dsa-practice/gcr-codebase/sorting-algorithms)
 
+---
 
+**📅 Day 12 – String Handling, File I/O & Searching**
 
-\*\*📅 Day 12 – String Handling, File I/O \& Searching\*\*
+**(Date: 31-Dec-2025)**
 
-\*\*(Date: 31-Dec-2025)\*\*
-
-
-
-\- Studied StringBuilder and StringBuffer
-
-\- Understood the differences between StringBuilder vs StringBuffer
-
-\- Learned FileReader for reading text files
-
-\- Explored Linear Search and its working
-
-\- Learned Binary Search and its efficiency compared to linear search
-
-\- Practiced programs based on string handling, file I/O, and searching algorithms
-
-&nbsp; 
+- Studied StringBuilder and StringBuffer
+- Understood the differences between StringBuilder vs StringBuffer
+- Learned FileReader for reading text files
+- Explored Linear Search and its working
+- Learned Binary Search and its efficiency compared to linear search
+- Practiced programs based on string handling, file I/O, and searching algorithms
 
 🔗 Practice Code Links:
 
 👉 Day 12 – (https://github.com/nikhilchahar1/BridgeLabz-Training/tree/dsa-practice/gcr-codebase/linear-binary-search)
 
+---
 
+**📅 Day 13 – Runtime Analysis & Big-O Notation**
 
-\*\*📅 Day 13 – Runtime Analysis \& Big-O Notation\*\*
+**(Date: 01-Jan-2025)**
 
-\*\*(Date: 01-Jan-2025)\*\*
-
-
-
-\- Studied algorithm runtime analysis and its importance
-
-\- Learned Big-O notation to analyze algorithm efficiency
-
-\- Understood time complexity and space complexity
-
-\- Explored common Big-O classes:
-
-&nbsp;   - O(1), O(log N), O(N), O(N log N), O(N²)
-
-\- Analyzed best, average, and worst-case scenarios
-
-\- Practiced evaluating time complexity of loops and algorithms
-
-&nbsp; 
+- Studied algorithm runtime analysis and its importance
+- Learned Big-O notation to analyze algorithm efficiency
+- Understood time complexity and space complexity
+- Explored common Big-O classes:
+   - O(1), O(log N), O(N), O(N log N), O(N²)
+- Analyzed best, average, and worst-case scenarios
+- Practiced evaluating time complexity of loops and algorithms
 
 🔗 Practice Code Links:
 
 👉 Day 13 – (https://github.com/nikhilchahar1/BridgeLabz-Training/tree/dsa-practice/gcr-codebase/time-space-complexity)
 
-
-
+---
