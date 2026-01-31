@@ -22,33 +22,33 @@ Tasks are organized week-wise, detailing the concepts learned and hands-on probl
 
 
 
-&nbsp;     BridgeLabz-Training/
+      BridgeLabz-Training/
 
-&nbsp;     ├── core-java-practice/
+      ├── core-java-practice/
 
-&nbsp;     │   └── gcr-codebase/
+      │   └── gcr-codebase/
 
-&nbsp;     │   |   └── arrays/ 
+      │   |   └── arrays/
 
-&nbsp;     |   |   └── builtIn-functions/
+      |   |   └── builtIn-functions/
 
-&nbsp;     |   |   └── control-flow/
+      |   |   └── control-flow/
 
-&nbsp;     |   |   └── java-methods/
+      |   |   └── java-methods/
 
-&nbsp;     |   |   └── programming-elements/
+      |   |   └── programming-elements/
 
-&nbsp;     |   |   └── string-handling/
+      |   |   └── string-handling/
 
-&nbsp;     |   |   └── strings/
+      |   |   └── strings/
 
-&nbsp;     |   └── leet-code-codebase/
+      |   └── leet-code-codebase/
 
-&nbsp;     |   └── scenario-based/
+      |   └── scenario-based/
 
-&nbsp;     └── README.md
+      └── README.md
 
-&nbsp; 
+ 
 
 \- Learned basic Git commands (init, clone, add, commit, push).
 
@@ -68,7 +68,7 @@ Tasks are organized week-wise, detailing the concepts learned and hands-on probl
 
 \- Practiced adding, committing, and pushing Java files to GitHub.
 
-&nbsp; 
+ 
 
 🔗 Code Link:
 
@@ -114,17 +114,17 @@ Tasks are organized week-wise, detailing the concepts learned and hands-on probl
 
 \- Studied Java control flow concepts:
 
-&nbsp; - if, else if, else
+  - if, else if, else
 
-&nbsp; - switch statements
+  - switch statements
 
-&nbsp; - Loops (for, while, do-while)
+  - Loops (for, while, do-while)
 
 \- Solved control flow-based problems.
 
 \- Submitted completed solutions to GitHub.
 
-&nbsp; 
+ 
 
 🔗 Code Link:
 
@@ -152,7 +152,7 @@ Tasks are organized week-wise, detailing the concepts learned and hands-on probl
 
 \- Solved array-based practice problems.
 
-&nbsp; 
+ 
 
 🔗 Code Link:
 
@@ -170,35 +170,35 @@ Tasks are organized week-wise, detailing the concepts learned and hands-on probl
 
 \- Studied Java Strings and String handling in depth:
 
-&nbsp; - String creation using String class and char\[]
+  - String creation using String class and char\[]
 
-&nbsp; - String immutability and comparison techniques
+  - String immutability and comparison techniques
 
 
 
 \- Learned methods in general:
 
-&nbsp; - What methods are and why they are used
+  - What methods are and why they are used
 
-&nbsp; - Method calling, parameters, and return types
+  - Method calling, parameters, and return types
 
 
 
 \- Explored String methods \& inbuilt functions:
 
-&nbsp; - length(), charAt(), toLowerCase(), toUpperCase()
+  - length(), charAt(), toLowerCase(), toUpperCase()
 
-&nbsp; - Other commonly used string utility methods
+  - Other commonly used string utility methods
 
 
 
 \- Solved string manipulation problems:
 
-&nbsp; - Anagrams
+  - Anagrams
 
-&nbsp; - Checking unique characters
+  - Checking unique characters
 
-&nbsp; - Character frequency
+  - Character frequency
 
 
 
@@ -210,7 +210,7 @@ Tasks are organized week-wise, detailing the concepts learned and hands-on probl
 
 
 
-👉 Day 6 – (https://github.com/nikhilchahar1/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/methods) 
+👉 Day 6 – (https://github.com/nikhilchahar1/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/methods)
 
 
 
@@ -232,29 +232,29 @@ Tasks are organized week-wise, detailing the concepts learned and hands-on probl
 
 
 
-&nbsp;       BridgeLabz-Training/
+        BridgeLabz-Training/
 
-&nbsp;       ├── oops-practice/
+        ├── oops-practice/
 
-&nbsp;       │   └── gcr-codebase/
+        │   └── gcr-codebase/
 
-&nbsp;       │   |   └── class-objects/ 
+        │   |   └── class-objects/
 
-&nbsp;       |   |   └── constructors-modifiers/
+        |   |   └── constructors-modifiers/
 
-&nbsp;       |   |   └── diagrams-modelling/
+        |   |   └── diagrams-modelling/
 
-&nbsp;       |   |   └── inheritance/
+        |   |   └── inheritance/
 
-&nbsp;       |   |   └── oops-pillars/
+        |   |   └── oops-pillars/
 
-&nbsp;       |   |   └── this-static-final-keyword/
+        |   |   └── this-static-final-keyword/
 
-&nbsp;       |   └── leet-code-codebase/
+        |   └── leet-code-codebase/
 
-&nbsp;       |   └── scenario-based/
+        |   └── scenario-based/
 
-&nbsp;       └── README.md
+        └── README.md
 
 
 
@@ -318,7 +318,7 @@ Tasks are organized week-wise, detailing the concepts learned and hands-on probl
 
 \- Practiced designing models for simple real-world scenarios
 
-&nbsp; 
+ 
 
 🔗 Code Links:
 
@@ -352,7 +352,7 @@ Tasks are organized week-wise, detailing the concepts learned and hands-on probl
 
 \- Practiced OOPS-based programs to strengthen conceptual clarity
 
-&nbsp; 
+ 
 
 🔗 Code / Practice Links:
 
@@ -384,27 +384,27 @@ Tasks are organized week-wise, detailing the concepts learned and hands-on probl
 
 
 
-&nbsp;     BridgeLabz-Training/
+      BridgeLabz-Training/
 
-&nbsp;     ├── dsa-practice/
+      ├── dsa-practice/
 
-&nbsp;     │   └── gcr-codebase/
+      │   └── gcr-codebase/
 
-&nbsp;     │   |   └── linkedlists/ 
+      │   |   └── linkedlists/
 
-&nbsp;     |   |   └── stack-queue-hashmap/
+      |   |   └── stack-queue-hashmap/
 
-&nbsp;     |   |   └── sorting-algorithms/
+      |   |   └── sorting-algorithms/
 
-&nbsp;     |   |   └── binary-linear-search/
+      |   |   └── binary-linear-search/
 
-&nbsp;     |   |   └── time-space-complexity/
+      |   |   └── time-space-complexity/
 
-&nbsp;     |   └── leet-code-codebase/
+      |   └── leet-code-codebase/
 
-&nbsp;     |   └── scenario-based/
+      |   └── scenario-based/
 
-&nbsp;     └── README.md
+      └── README.md
 
 
 
@@ -420,7 +420,7 @@ Tasks are organized week-wise, detailing the concepts learned and hands-on probl
 
 \- Practiced basic examples and problems on each data structure
 
-&nbsp; 
+ 
 
 🔗 Practice Code Links:
 
@@ -442,19 +442,19 @@ Tasks are organized week-wise, detailing the concepts learned and hands-on probl
 
 \- Learned sorting algorithms:
 
-&nbsp;   - Bubble Sort
+    - Bubble Sort
 
-&nbsp;   - Selection Sort
+    - Selection Sort
 
-&nbsp;   - Insertion Sort
+    - Insertion Sort
 
-&nbsp;   - Merge Sort
+    - Merge Sort
 
-&nbsp;   - Quick Sort
+    - Quick Sort
 
-&nbsp;   - Heap Sort
+    - Heap Sort
 
-&nbsp;   - Counting Sort
+    - Counting Sort
 
 \- Understood the working principles of each sorting algorithm
 
@@ -462,7 +462,7 @@ Tasks are organized week-wise, detailing the concepts learned and hands-on probl
 
 \- Practiced implementations and problems on sorting algorithms
 
-&nbsp; 
+ 
 
 🔗 Practice Code Links:
 
@@ -488,7 +488,7 @@ Tasks are organized week-wise, detailing the concepts learned and hands-on probl
 
 \- Practiced programs based on string handling, file I/O, and searching algorithms
 
-&nbsp; 
+ 
 
 🔗 Practice Code Links:
 
@@ -510,17 +510,15 @@ Tasks are organized week-wise, detailing the concepts learned and hands-on probl
 
 \- Explored common Big-O classes:
 
-&nbsp;   - O(1), O(log N), O(N), O(N log N), O(N²)
+    - O(1), O(log N), O(N), O(N log N), O(N²)
 
 \- Analyzed best, average, and worst-case scenarios
 
 \- Practiced evaluating time complexity of loops and algorithms
 
-&nbsp; 
+ 
 
 🔗 Practice Code Links:
 
-👉 Day 13 – (https://github.com/nikhilchahar1/BridgeLabz-Training/tree/dsa-practice/gcr-codebase/time-space-complexity)
-
-
+👉 Day 13 – (https://github.com/nikhilchahar1/BridgeLabz-Training/tree/dsa-practice/gcr-codebase/time-space-complexity) 
 
