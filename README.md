@@ -361,7 +361,7 @@ Tasks are organized week-wise, detailing the concepts learned and hands-on probl
 
 - Set up GitHub repository.
 
-	BridgeLabz-Training/
+		BridgeLabz-Training/
     	├── collections-practice/
     	│   └── gcr-codebase/
     	│   |   └── generics/ 
