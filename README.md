@@ -362,16 +362,16 @@ Tasks are organized week-wise, detailing the concepts learned and hands-on probl
 - Set up GitHub repository.
 
 		BridgeLabz-Training/
-    	├── collections-practice/
-    	│   └── gcr-codebase/
-    	│   |   └── generics/ 
-    	│   |   └── collections/ 
-    	│   |   └── streams/
-    	│   |   └── exceptions/
-    	│   |   └── regex-junit/
-    	|   └── leet-code-codebase/
-    	|   └── scenario-based/
-    	└── README.md
+    		├── collections-practice/
+    		│   └── gcr-codebase/
+    		│   |   └── generics/ 
+    		│   |   └── collections/ 
+    		│   |   └── streams/
+    		│   |   └── exceptions/
+    		│   |   └── regex-junit/
+    		|   └── leet-code-codebase/
+    		|   └── scenario-based/
+    		└── README.md
 
 - Studied Java Generics and their purpose
 - Understood type safety and how generics prevent runtime errors
