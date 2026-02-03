@@ -470,7 +470,7 @@ Tasks are organized week-wise, detailing the concepts learned and hands-on probl
 - Understood retention policies and annotation targets
 - Explored Java Reflection API for runtime class inspection
 - Accessed private fields and methods using reflection
-- Implemented annotation-based logic like validation and access control
+- Implemented annotation-based logic like validation and access control 
 - Practiced dynamic object creation and method invocation
 - Gained insight into how frameworks use annotations and reflection
 
