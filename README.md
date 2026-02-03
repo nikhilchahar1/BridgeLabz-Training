@@ -476,4 +476,4 @@ Tasks are organized week-wise, detailing the concepts learned and hands-on probl
 
 🔗 Code / Practice Links:
 
-👉 Day 21 & 22 – (https://github.com/nikhilchahar1/BridgeLabz-Training/tree/collections-practice/gcr-codebase/reflection-annotation)
+👉 Day 21 & 22 – (https://github.com/nikhilchahar1/BridgeLabz-Training/tree/collections-practice/gcr-codebase/reflection-annotation) 
