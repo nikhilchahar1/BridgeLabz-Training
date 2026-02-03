@@ -8,7 +8,7 @@ Tasks are organized week-wise, detailing the concepts learned and hands-on probl
 
 
 
-## Week 1: Git, GitHub & Java Programming Fundamentals
+## Week 1: Git, GitHub & Java Programming Fundamentals 
 
 **📅 Day 1 – Git & GitHub Setup**
 
