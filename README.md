@@ -12,7 +12,7 @@ Tasks are organized week-wise, detailing the concepts learned and hands-on probl
 
 **📅 Day 1 – Git & GitHub Setup**
 
-**(Date: 16-Dec-2025)**
+**(Date: 16-Dec-2025)** 
 
 
 - Installed and configured Git.
