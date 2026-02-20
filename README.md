@@ -91,7 +91,6 @@ Tasks are organized week-wise, detailing the concepts learned and hands-on probl
 - Taking array input using loops
 - Finding maximum, minimum, sum, and average
 - Frequency counting in arrays
-- Solved array-based practice problems.
    
 🔗 Code Link:
 
@@ -157,7 +156,6 @@ Tasks are organized week-wise, detailing the concepts learned and hands-on probl
 - Learned Java constructors
 - Studied access modifiers (public, private, protected, default)
 - Solved problems on each OOPS topic
-- Practiced basic OOPS-based programs
   
 🔗 Code Links: 👉 Day 7
 
@@ -180,7 +178,6 @@ Tasks are organized week-wise, detailing the concepts learned and hands-on probl
 - Learned Class Diagrams and their components
 - Explored Object Diagrams to represent object instances
 - Studied Sequence Diagrams to understand object interactions
-- Solved problems and examples on each diagram type
 - Practiced designing models for simple real-world scenarios
 
 🔗 Code Links:
@@ -201,7 +198,6 @@ Tasks are organized week-wise, detailing the concepts learned and hands-on probl
 - Learned Interfaces in Java and their role in achieving abstraction and multiple inheritance
 - Understood how OOPS pillars and interfaces are implemented in Java
 - Solved problems based on each OOPS pillar and interfaces
-- Practiced OOPS-based programs to strengthen conceptual clarity
  
 🔗 Code / Practice Links:
 
@@ -233,7 +229,6 @@ Tasks are organized week-wise, detailing the concepts learned and hands-on probl
 - Understood the basics of Data Structures and their importance
 - Studied Linked Lists and their structure
 - Learned Stacks and Queues along with their basic operations
-- Understood the concept of Hashing and Hash Functions
 - Practiced basic examples and problems on each data structure
 
 🔗 Practice Code Links:
@@ -325,7 +320,6 @@ Tasks are organized week-wise, detailing the concepts learned and hands-on probl
 - Studied Java Generics and their purpose
 - Understood type safety and how generics prevent runtime errors
 - Learned to create generic classes and methods
-- Explored the use of bounded type parameters
 - Understood wildcards (?, ? extends, ? super)
 - Practiced generic-based programs for better code reusability
 - Analyzed how generics improve readability and maintainability
@@ -394,8 +388,6 @@ Tasks are organized week-wise, detailing the concepts learned and hands-on probl
 - Understood practical applications of regex in data validation and text processing.
 - Learned the basics of JUnit testing framework.
 - Created JUnit test cases to test regex validations with both valid and invalid inputs.
-- Used assertions like assertTrue, assertFalse, and assertEquals to verify expected outcomes.
-- Improved code reliability by validating edge cases through automated tests.
 
 🔗 Code / Practice Links:
 
@@ -431,7 +423,6 @@ Tasks are organized week-wise, detailing the concepts learned and hands-on probl
 - Implemented CRUD operations to add, edit, delete, and manage contact details
 - Used Collections Framework to store multiple contacts and multiple address books efficiently
 - Implemented duplicate entry checks by overriding equals() and using collection search methods
-- Enabled searching and sorting of contacts by name, city, state, and zip using Collection utilities
 - Improved console output by overriding the toString() method
 - Gained hands-on experience with File IO operations to read and write address book data
 - Worked with CSV file operations using the OpenCSV library
@@ -450,7 +441,6 @@ Tasks are organized week-wise, detailing the concepts learned and hands-on probl
 - Learned how to read data from CSV files using the OpenCSV library
 - Implemented writing data into CSV files programmatically
 - Worked with CSVReader and CSVWriter classes from OpenCSV
-- Mapped Java objects to CSV rows and columns
 - Handled file paths, IO exceptions, and resource management effectively
 - Gained practical experience in data serialization using CSV format
 
@@ -468,7 +458,6 @@ Tasks are organized week-wise, detailing the concepts learned and hands-on probl
 - Learned how to read and write JSON data using the GSON library
 - Implemented serialization and deserialization of Java objects to and from JSON
 - Worked with JsonObject, JsonArray, and Gson classes
-- Mapped Java objects to structured JSON format
 - Handled file IO operations and exceptions while working with JSON files
 - Gained practical experience in data persistence using JSON format
 
