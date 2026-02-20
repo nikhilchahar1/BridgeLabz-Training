@@ -1,4 +1,4 @@
-# Daily Progress Log - BridgeLabz-Training
+# Daily Progress Log - BridgeLabz-Training 
 
 
 This repository documents my daily learning progress during the BridgeLabz Training Program, focused on Java Programming.
