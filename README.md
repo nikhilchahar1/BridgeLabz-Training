@@ -1,11 +1,9 @@
 # Daily Progress Log - BridgeLabz-Training
 
 
-
 This repository documents my daily learning progress during the BridgeLabz Training Program, focused on Java Programming.
 
 Tasks are organized week-wise, detailing the concepts learned and hands-on problems solved each day.
-
 
 
 ## Week 1: Git, GitHub & Java Programming Fundamentals 
@@ -13,7 +11,6 @@ Tasks are organized week-wise, detailing the concepts learned and hands-on probl
 **📅 Day 1 – Git & GitHub Setup**
 
 **(Date: 16-Dec-2025)** 
-
 
 - Installed and configured Git.
 - Set up GitHub repository.
@@ -31,7 +28,7 @@ Tasks are organized week-wise, detailing the concepts learned and hands-on probl
       |   └── leet-code-codebase/
       |   └── scenario-based/
       └── README.md
-
+  
 - Learned basic Git commands (init, clone, add, commit, push).
 - Successfully pushed files to the remote repository.
 
@@ -41,24 +38,19 @@ Tasks are organized week-wise, detailing the concepts learned and hands-on probl
 
 **(Date: 17-Dec-2025)**
 
-
 - Practiced Git workflow to understand commits and version control.
 - Solved very basic Java programs to understand syntax and structure.
 - Practiced adding, committing, and pushing Java files to GitHub.
-
  
 🔗 Code Link:
 
-
 👉 Day 2 – (https://github.com/nikhilchahar1/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/programming-elements)
-
 
 ***
 
 **📅 Day 3 – Programming Elements in Java**
 
 **(Date: 18-Dec-2025)**
-
 
 - Studied Java programming elements:
 - Variables and data types
@@ -67,19 +59,15 @@ Tasks are organized week-wise, detailing the concepts learned and hands-on probl
 - Solved practice problems based on programming elements.
 - Committed and pushed solutions to the repository.
 
-
 🔗 Code Link:
 
-
 👉 Day 3 – (https://github.com/nikhilchahar1/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/programming-elements)
-
 
 ***
 
 **📅 Day 4 – Control Flow Statement**
 
 **(Date: 19-Dec-2025)**
-
 
 - Studied Java control flow concepts:
   - if, else if, else
@@ -88,19 +76,15 @@ Tasks are organized week-wise, detailing the concepts learned and hands-on probl
 - Solved control flow-based problems.
 - Submitted completed solutions to GitHub.
  
-
 🔗 Code Link:
 
-
 👉 Day 4 – (https://github.com/nikhilchahar1/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/control-flow)
-
 
 ***
 
 **📅 Day 5 – Arrays**
 
 **(Date: 20-Dec-2025)**
-
 
 - Studied Java array concepts:
 - 1D and multidimensional arrays (declaration, initialization, traversal)
@@ -109,19 +93,15 @@ Tasks are organized week-wise, detailing the concepts learned and hands-on probl
 - Frequency counting in arrays
 - Solved array-based practice problems.
    
-
 🔗 Code Link:
 
-
 👉 Day 5 – (https://github.com/nikhilchahar1/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/arrays)
-
 
 ***
 
 **📅 Day 6 – Strings**
 
 **(Date: 22-Dec-2025)**
-
 
 - Studied Java Strings and String handling in depth:
   - String creation using String class and char[]
@@ -140,18 +120,13 @@ Tasks are organized week-wise, detailing the concepts learned and hands-on probl
   - Checking unique characters
   - Character frequency
 
-
 🔗 Code Links:
-
 
 👉 Day 6 – (https://github.com/nikhilchahar1/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/string)
 
-
 👉 Day 6 – (https://github.com/nikhilchahar1/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/methods)
 
-
 👉 Day 6 – (https://github.com/nikhilchahar1/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/builtin-functions)
-
 
 ***
 
@@ -160,7 +135,6 @@ Tasks are organized week-wise, detailing the concepts learned and hands-on probl
 **📅 Day 7 – OOPS Basics**
 
 **(Date: 23-Dec-2025)**
-
 
 - Set up repository
 
@@ -184,29 +158,22 @@ Tasks are organized week-wise, detailing the concepts learned and hands-on probl
 - Studied access modifiers (public, private, protected, default)
 - Solved problems on each OOPS topic
 - Practiced basic OOPS-based programs
-
-
+  
 🔗 Code Links: 👉 Day 7
-
 
 **Class and Objects**
 
-
 (https://github.com/nikhilchahar1/BridgeLabz-Training/tree/oops-practice/gcr-codebase/class-object)
-
 
 **Constructors and Modifiers**
 
-
 (https://github.com/nikhilchahar1/BridgeLabz-Training/tree/oops-practice/gcr-codebase/constructors-modifiers)
-
 
 ***
 
 **📅 Day 8 – Object Modeling & UML Diagrams**
 
 **(Date: 24-Dec-2025)**
-
 
 - Studied Object Modeling concepts in Java
 - Understood the difference between Classes and Objects in design
@@ -216,18 +183,15 @@ Tasks are organized week-wise, detailing the concepts learned and hands-on probl
 - Solved problems and examples on each diagram type
 - Practiced designing models for simple real-world scenarios
 
- 
 🔗 Code Links:
 
 👉 Day 8 - (https://github.com/nikhilchahar1/BridgeLabz-Training/tree/oops-practice/gcr-codebase/design-principles)
-
 
 ***
 
 **📅 Day 9 – OOPS Pillars & Interfaces**
 
 **(Date: 26-Dec-2025)**
-
 
 - Studied the four pillars of Object-Oriented Programming
 - Understood Encapsulation and data hiding concepts
@@ -239,12 +203,9 @@ Tasks are organized week-wise, detailing the concepts learned and hands-on probl
 - Solved problems based on each OOPS pillar and interfaces
 - Practiced OOPS-based programs to strengthen conceptual clarity
  
-
 🔗 Code / Practice Links:
 
-
 👉 Day 9 – (https://github.com/nikhilchahar1/BridgeLabz-Training/tree/oops-practice/gcr-codebase/java-principles)
-
 
 ***
 
@@ -253,7 +214,6 @@ Tasks are organized week-wise, detailing the concepts learned and hands-on probl
 **📅 Day 10 – Introduction to DSA**
 
 **(Date: 29-Dec-2025)**
-
 
 - Set up repository
 
@@ -275,22 +235,18 @@ Tasks are organized week-wise, detailing the concepts learned and hands-on probl
 - Learned Stacks and Queues along with their basic operations
 - Understood the concept of Hashing and Hash Functions
 - Practiced basic examples and problems on each data structure
- 
 
 🔗 Practice Code Links:
 
 👉 Day 10 – (https://github.com/nikhilchahar1/BridgeLabz-Training/tree/dsa-practice/gcr-codebase/linkedlists)
 
-
 👉 Day 10 – (https://github.com/nikhilchahar1/BridgeLabz-Training/tree/dsa-practice/gcr-codebase/stack-queue-hashmap)
-
 
 ***
 
 **📅 Day 11 – Sorting Algorithms**
 
 **(Date: 30-Dec-2025)**
-
 
 - Studied Sorting algorithms and their role in Data Structures
 - Learned sorting algorithms:
@@ -305,18 +261,15 @@ Tasks are organized week-wise, detailing the concepts learned and hands-on probl
 - Analyzed time and space complexity for the sorting methods
 - Practiced implementations and problems on sorting algorithms
  
-
 🔗 Practice Code Links:
 
 👉 Day 11 – (https://github.com/nikhilchahar1/BridgeLabz-Training/tree/dsa-practice/gcr-codebase/sorting-algorithms)
-
 
 ***
 
 **📅 Day 12 – String Handling, File I/O & Searching**
 
 **(Date: 31-Dec-2025)**
-
 
 - Studied StringBuilder and StringBuffer
 - Understood the differences between StringBuilder vs StringBuffer
@@ -325,18 +278,15 @@ Tasks are organized week-wise, detailing the concepts learned and hands-on probl
 - Learned Binary Search and its efficiency compared to linear search
 - Practiced programs based on string handling, file I/O, and searching algorithms
  
-
 🔗 Practice Code Links:
 
 👉 Day 12 – (https://github.com/nikhilchahar1/BridgeLabz-Training/tree/dsa-practice/gcr-codebase/linear-binary-search)
-
 
 ***
 
 **📅 Day 13 – Runtime Analysis & Big-O Notation**
 
 **(Date: 01-Jan-2025)**
-
 
 - Studied algorithm runtime analysis and its importance
 - Learned Big-O notation to analyze algorithm efficiency
@@ -345,7 +295,6 @@ Tasks are organized week-wise, detailing the concepts learned and hands-on probl
     - O(1), O(log N), O(N), O(N log N), O(N²)
 - Analyzed best, average, and worst-case scenarios
 - Practiced evaluating time complexity of loops and algorithms
-
  
 🔗 Practice Code Links:
 
@@ -381,9 +330,7 @@ Tasks are organized week-wise, detailing the concepts learned and hands-on probl
 - Practiced generic-based programs for better code reusability
 - Analyzed how generics improve readability and maintainability
 
-
 🔗 Code / Practice Links:
-
 
 👉 Day 14 – (https://github.com/nikhilchahar1/BridgeLabz-Training/tree/collections-practice/gcr-codebase/generics)
 
@@ -393,12 +340,10 @@ Tasks are organized week-wise, detailing the concepts learned and hands-on probl
 
 **(Date: 03-Jan-2026)**
 
-
 - Studied the Java Collections Framework and its hierarchy.
 - Learned and practiced List, Set, Queue, and Map.
 - Understood differences between major collection implementations.
 - Practiced basic collection operations and simple real-world examples.
-
 
 🔗 Code / Practice Links:
 
@@ -409,7 +354,6 @@ Tasks are organized week-wise, detailing the concepts learned and hands-on probl
 **📅 Day 16 & 17 - Java Streams**
 
 **(Date: 05-Jan-2026 - 06-Jan-2026)**
-
 
 - Studied the Java Streams API and its role in functional-style programming.
 - Learned to create streams from collections and arrays.
@@ -427,7 +371,6 @@ Tasks are organized week-wise, detailing the concepts learned and hands-on probl
 
 **(Date: 07-Jan-2026 - 09-Jan-2026)**
 
-
 - Studied the concept of exception handling and its importance in building robust applications.
 - Learned to use try, catch, finally, and the throw and throws keywords.
 - Understood the difference between checked and unchecked exceptions.
@@ -443,7 +386,6 @@ Tasks are organized week-wise, detailing the concepts learned and hands-on probl
 **📅 Day 19 & 20 – Java Regular Expressions (Regex) and Junit**
 
 **(Date: 12-Jan-2026 - 13-Jan-2026)**
-
 
 - Studied the fundamentals of Java Regular Expressions and how pattern matching works.
 - Learned commonly used regex metacharacters, quantifiers, and character classes.
@@ -465,7 +407,6 @@ Tasks are organized week-wise, detailing the concepts learned and hands-on probl
 
 **(Date: 14-Jan-2026 – 15-Jan-2026)**
 
-
 - Learned Java annotations including built-in and custom annotations
 - Understood retention policies and annotation targets
 - Explored Java Reflection API for runtime class inspection
@@ -477,4 +418,227 @@ Tasks are organized week-wise, detailing the concepts learned and hands-on probl
 🔗 Code / Practice Links:
 
 👉 Day 21 & 22 – (https://github.com/nikhilchahar1/BridgeLabz-Training/tree/collections-practice/gcr-codebase/reflection-annotation) 
- 
+
+***
+
+## Week 4: IO - Programming and Address Book Problem
+
+**📅 Day 23 & 24 – Address Book Problem**
+
+**(Date: 16-Jan-2026 - 19-Jan-2026)**
+
+- Designed a console-based Address Book application using Java and OOP principles
+- Implemented CRUD operations to add, edit, delete, and manage contact details
+- Used Collections Framework to store multiple contacts and multiple address books efficiently
+- Implemented duplicate entry checks by overriding equals() and using collection search methods
+- Enabled searching and sorting of contacts by name, city, state, and zip using Collection utilities
+- Improved console output by overriding the toString() method
+- Gained hands-on experience with File IO operations to read and write address book data
+- Worked with CSV file operations using the OpenCSV library
+
+🔗 Code / Practice Links:
+
+👉 [Day 23 & 24 – Address Book Problem] (https://github.com/nikhilchahar1/BridgeLabz-Training/tree/oops-practice/scenario-based/address-book)
+
+***
+
+**📅 Day 25 – CSV Handling**
+
+**(Date: 20-Jan-2026)**
+
+- Understood the CSV (Comma-Separated Values) file format and its real-world use cases
+- Learned how to read data from CSV files using the OpenCSV library
+- Implemented writing data into CSV files programmatically
+- Worked with CSVReader and CSVWriter classes from OpenCSV
+- Mapped Java objects to CSV rows and columns
+- Handled file paths, IO exceptions, and resource management effectively
+- Gained practical experience in data serialization using CSV format
+
+🔗 Code / Practice Links:
+
+👉 Day 25 – (https://github.com/nikhilchahar1/BridgeLabz-Training/tree/io-programming-practice/gcr-codebase/csv-practice)
+
+***
+
+**📅 Day 26 – JSON Handling**
+
+**(Date: 21-Jan-2026)**
+
+- Understood the JSON (JavaScript Object Notation) format and its real-world use cases
+- Learned how to read and write JSON data using the GSON library
+- Implemented serialization and deserialization of Java objects to and from JSON
+- Worked with JsonObject, JsonArray, and Gson classes
+- Mapped Java objects to structured JSON format
+- Handled file IO operations and exceptions while working with JSON files
+- Gained practical experience in data persistence using JSON format
+
+🔗 Code / Practice Links:
+
+👉 Day 26 – (https://github.com/nikhilchahar1/BridgeLabz-Training/tree/io-programming-practice/gcr-codebase/json-practice)
+
+***
+
+## Week 5: IO - Java-8 Features
+
+**📅 Day 27 – Lambda Expressions**
+
+**(Date: 22-Jan-2026)**
+
+- Understood the concept of Lambda Expressions and their role in functional programming
+- Learned the syntax of lambda expressions and how they simplify anonymous classes
+- Worked with functional interfaces such as Predicate, Function, Consumer, and Supplier
+- Improved code readability and reduced boilerplate code
+- Gained practical experience in writing clean and expressive functional-style code
+
+🔗 Code / Practice Links:
+
+👉 Day 27 – (https://github.com/nikhilchahar1/BridgeLabz-Training/tree/java8-features-practice/gcr-codebase/lambda-expression)
+
+***
+
+**📅 Day 28 – Functional Interfaces**
+
+**(Date: 23-Jan-2026)**
+
+- Understood the concept of Functional Interfaces and their role in Java functional programming
+- Learned about the @FunctionalInterface annotation and its purpose
+- Worked with built-in functional interfaces such as Predicate, Function, Consumer, and Supplier
+- Implemented custom functional interfaces with single abstract methods
+- Used functional interfaces with lambda expressions for cleaner code
+
+🔗 Code / Practice Links:
+
+👉 Day 28 – (https://github.com/nikhilchahar1/BridgeLabz-Training/tree/java8-features-practice/gcr-codebase/functional-interface)
+
+***
+
+**📅 Day 30 – Stream API**
+
+**(Date: 29-Jan-2026)**
+
+- Learned the fundamentals of Java 8 Stream API and stream pipelines (source → intermediate → terminal operations)
+- Implemented filtering, mapping, and sorting operations on collections using streams
+- Used Collectors for grouping, counting, summing, averaging, and summarizing data
+- Practiced real-world use cases such as grouping records, aggregating values, and transforming data
+- Understood lazy evaluation, stateless vs stateful operations, and ordered vs unordered streams
+- Worked with parallel streams and analyzed their performance considerations
+
+🔗 Code / Practice Links:
+
+👉 Day 30 – (https://github.com/nikhilchahar1/BridgeLabz-Training/tree/java8-features-practice/gcr-codebase/stream-api)
+
+***
+
+**📅 Day 31 – Collectors**
+
+**(Date: 30-Jan-2026)**
+
+- Gained in-depth understanding of the Collectors framework in Java Stream API
+- Used Collectors.toList(), toSet(), and toMap() for collecting stream results
+- Implemented grouping and aggregation using groupingBy() with downstream collectors
+- Applied aggregation operations such as counting, summing, averaging, and summarizing
+- Worked with nested collectors like groupingBy() with mapping() and counting()
+- Solved real-world problems involving data analysis and transformation using collectors
+
+🔗 Code / Practice Links:
+
+👉 Day 31 – (https://github.com/nikhilchahar1/BridgeLabz-Training/tree/java8-features-practice/gcr-codebase/collectors)
+
+***
+
+## Design Patterns And Principles
+
+**📅 Day 32 & 33 – Design Principles & Design Patterns**
+
+**(Date: 01-feb-2026) - (Date: 02-feb-2026)**
+
+- Learned important design principles (KISS, DRY, YAGNI, SOLID) and how they help in writing clean, maintainable code
+- Implemented core design patterns: Singleton, Builder, Factory, and Observer
+- Understood how patterns reduce tight coupling and improve scalability
+- Applied all four patterns together in a mini project: Smart Library Management System
+
+🔗 Code / Practice Links:
+
+👉 Day 28 – (https://github.com/nikhilchahar1/BridgeLabz-Training/tree/design-patterns-practice/gcr-codebase/smart-library-management)
+
+***
+
+## Multi Threading
+
+**📅 Day 34 & 35 – Multi-Threading in Java**
+
+**(Date: 03-feb-2026) - (Date: 04-feb-2026)**
+
+- Learned the concept of Multi-Threading and how multiple tasks can run concurrently within a single program
+- Created threads using both Thread class and Runnable interface (recommended approach)
+- Understood thread life cycle and states: NEW, RUNNABLE, BLOCKED, WAITING, TIMED_WAITING, TERMINATED
+- Practiced important methods like start(), run(), sleep(), join(), and thread priority
+- Observed issues with shared resources (race conditions) and understood the need for synchronization
+
+**🧪 Practice Work**
+- Implemented a Download Manager simulation running multiple downloads simultaneously
+- Built a Banking Transaction System to demonstrate shared resource access by multiple threads
+- Practiced thread naming and monitoring thread states during execution
+
+🔗 Code / Practice Links:
+
+👉 Day 29 – (https://github.com/nikhilchahar1/BridgeLabz-Training/tree/multithreading-practice/gcr-codebase)
+
+***
+
+## Java Databse Connectivity
+
+**📅 Day 36 & 37– JDBC & DBMS Concepts**
+
+**(Date: 05-feb-2026) - (Date: 06-feb-2026)**
+
+- Learned fundamentals of DBMS including tables, rows, columns, primary key, and foreign key relationships
+- Understood different SQL operations: DDL, DML, DQL, TCL and basic queries like SELECT, INSERT, UPDATE, and DELETE
+- Studied JDBC architecture and how Java applications communicate with databases using drivers and connections
+- Worked with core JDBC components: Connection, Statement, PreparedStatement, and ResultSet
+- Understood the difference between Statement vs PreparedStatement and how PreparedStatement prevents SQL Injection and improves performance
+
+***
+
+**📅 Day 38 & 39 – JDBC Mini Project: Health Clinic Application**
+
+**(Date: 07-feb-2026) - (Date: 08-feb-2026)**
+
+- Developed a Health Clinic Management Application using Java and JDBC
+- Implemented database operations such as patient registration, doctor management, and appointment handling
+- Used PreparedStatement for safe database interaction and to prevent SQL Injection
+- Performed CRUD operations (Create, Read, Update, Delete) on multiple tables
+- Managed relationships between entities like Patients, Doctors, and Appointments using primary and foreign keys
+- Practiced handling ResultSet, exception handling, and proper closing of database resources
+
+🔗 Code / Practice Links:
+
+👉 Day 31 – (https://github.com/nikhilchahar1/BridgeLabz-Training/tree/dbms-practice/gcr-codebase/health-clinic-app)
+
+***
+
+**📅 Day 40 – Collections Case Studies**
+
+**(Date: 09-Feb-2026)**
+
+⭐ Event Feedback & Rating Analyzer
+- Stored feedback using Map<EventID, List<Integer>>
+- Calculated average ratings and identified top-rated events
+- Validated ratings (1–5) using InvalidRatingException
+- Applied analysis logic using methods and OOP structure
+- Concepts: Map, List, OOP, Exception Handling
+
+🔗 Code / Practice Links:
+
+👉 Day 33 – Collections Case Studies
+
+***
+
+**📅 Day 41 – Mock Assessment**
+
+**(Date: 10-feb-2026)**
+
+- Attempted a mock assessment consisting of 3 questions solved on pen and paper
+- Questions covered topics from Collections, DSA, Core Java, OOP concepts, Java 8 features, and JUnit
+- Focused on problem-solving approach, logic building, and code structure without IDE support
+- Revised theoretical concepts along with writing proper syntax and explanations
