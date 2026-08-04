@@ -26,7 +26,5 @@ public class BirthdayCandles {
         }
         int result = birthdayCakeCandles(candles);
         System.out.println(result);
-
-        sc.close();
     }
 }

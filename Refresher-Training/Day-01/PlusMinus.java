@@ -11,8 +11,8 @@ public class PlusMinus {
             else if (i < 0) negative++;
             else zero++;
         }
-        System.out.printf("%.6f%n", positive / arr.size());
-        System.out.printf("%.6f%n", negative / arr.size());
+        System.out.printf("%.6f%n", positive/arr.size());
+        System.out.printf("%.6f%n", negative/arr.size());
         System.out.printf("%.6f%n", zero / arr.size());
     }
 

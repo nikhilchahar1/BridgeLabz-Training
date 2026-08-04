@@ -7,7 +7,7 @@ public class SimpleArraySum {
     public static int simpleArraySum(List<Integer> ar) {
         int sum = 0;
         for (int n : ar) {
-            sum += n;
+            sum+=n;
         }
         return sum;
     }

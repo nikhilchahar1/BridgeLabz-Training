@@ -2,7 +2,7 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
 
-public class Main {
+public class ArrayLeftRotation {
 
     public static List<Integer> rotLeft(List<Integer> a, int d) {
         d = d % a.size();
