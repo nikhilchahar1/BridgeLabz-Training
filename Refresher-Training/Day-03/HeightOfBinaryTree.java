@@ -1,11 +1,11 @@
 import java.util.*;
 
-class Node {
-    Node left;
-    Node right;
+class HNode {
+    HNode left;
+    HNode right;
     int data;
     
-    Node(int data) {
+    HNode(int data) {
         this.data = data;
         left = null;
         right = null;
@@ -14,18 +14,18 @@ class Node {
 
 public class HeightOfBinaryTree {
 
-	public static int height(Node root) {
+	public static int height(HNode root) {
         if(root==null) return -1;
         int leftSubTree=height(root.left);
         int rightSubTree=height(root.right);
         return 1+Math.max(leftSubTree,rightSubTree);
     }
 
-	public static Node insert(Node root, int data) {
+	public static HNode insert(HNode root, int data) {
         if(root == null) {
-            return new Node(data);
+            return new HNode(data);
         } else {
-            Node cur;
+            HNode cur;
             if(data <= root.data) {
                 cur = insert(root.left, data);
                 root.left = cur;
@@ -40,7 +40,7 @@ public class HeightOfBinaryTree {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
         int t = scan.nextInt();
-        Node root = null;
+        HNode root = null;
         while(t-- > 0) {
             int data = scan.nextInt();
             root = insert(root, data);
