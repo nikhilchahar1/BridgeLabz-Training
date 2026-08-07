@@ -1,6 +1,6 @@
 import java.util.*;
 
-class Result {
+class BResult {
     public static String isBalanced(String s) {
         Stack<Character> st = new Stack<>();
         for (char i : s.toCharArray()) {
@@ -35,7 +35,7 @@ public class BalancedBrackets {
         while (t-- > 0) {
             System.out.print("Enter brackets: ");
             String s = sc.nextLine();
-            System.out.println(Result.isBalanced(s));
+            System.out.println(BResult.isBalanced(s));
         }
 
         sc.close();
