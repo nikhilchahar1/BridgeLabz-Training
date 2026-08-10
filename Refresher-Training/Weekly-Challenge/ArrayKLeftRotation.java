@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class ArrayLeftRotation {
+public class ArrayKLeftRotation {
     public static List<Integer> rotLeft(List<Integer> a, int d) {
         List<Integer> result = new ArrayList<>();
         d = d % a.size();
@@ -23,7 +23,5 @@ public class ArrayLeftRotation {
         }
         List<Integer> result = rotLeft(a, d);
         System.out.println(result);
-
-        sc.close();
     }
 }
