@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class BalancedBrackets {
+public class BalancedBracket {
     public static String isBalanced(String s) {
         Stack<Character> st = new Stack<>();
         for (char i : s.toCharArray()) {
@@ -44,7 +44,5 @@ public class BalancedBrackets {
             String result = isBalanced(s);
             System.out.println(result);
         }
-
-        sc.close();
     }
 }
