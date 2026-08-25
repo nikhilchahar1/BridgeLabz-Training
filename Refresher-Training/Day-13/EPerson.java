@@ -2,7 +2,7 @@ import java.util.*;
 
 public class EPerson {
     private int age;
-    public Person(int initialAge) {
+    public void Person(int initialAge) {
         if(initialAge < 0){
             System.out.println("Age is not valid, setting age to 0.");
             age = 0;
@@ -30,7 +30,7 @@ public class EPerson {
         int T = sc.nextInt();
         for (int i = 0; i < T; i++) {
             int age = sc.nextInt();
-            EPerson p = new EPerson(age);
+            EPerson p = new EPerson();
             p.amIOld();
             for (int j = 0; j < 3; j++) {
                 p.yearPasses();
